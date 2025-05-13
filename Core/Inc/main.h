@@ -65,6 +65,13 @@ void Error_Handler(void);
 #define ECHO2_GPIO_Port GPIOA
 #define TRIG2_Pin GPIO_PIN_6
 #define TRIG2_GPIO_Port GPIOA
+#define LORA_EXT0_Pin GPIO_PIN_1
+#define LORA_EXT0_GPIO_Port GPIOB
+#define LORA_EXT0_EXTI_IRQn EXTI1_IRQn
+#define SPI1_CS_Pin GPIO_PIN_15
+#define SPI1_CS_GPIO_Port GPIOA
+#define LORA_RST_Pin GPIO_PIN_6
+#define LORA_RST_GPIO_Port GPIOB
 
 /* USER CODE BEGIN Private defines */
 

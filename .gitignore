@@ -1,0 +1,83 @@
+
+
+#Build
+/Debug/
+/Release/
+/build/
+/bin/
+/obj/
+
+# File build
+*.o
+*.ko
+*.obj
+*.elf
+*.bin
+*.hex
+*.list
+*.map
+*.su
+*.d
+*.axf
+
+# IDE config và debug
+.settings/
+.metadata/
+.launch/
+.vscode/
+*.launch
+*.jlink
+*.swo
+*.swp
+*.user
+*.atsuo
+*.cproject
+*.project
+*.prefs
+
+# backup
+*~
+*.bak
+*.tmp
+*.temp
+*.log
+*.orig
+
+# Cert
+*.pem
+*.key
+*.der
+*.p12
+*.pfx
+*.crt
+*.cer
+secrets.h
+*_secrets.*
+*secrets.*
+*credentials.*
+*password*
+*apikey*
+*token*
+*auth*
+*private*
+*confidential*
+
+# Folder CubeIDE
+Drivers/
+Middlewares/
+*.ioc
+!.project
+!.cproject
+
+# User config
+*.uvguix.*
+*.uvoptx
+*.uvprojx
+JLinkSettings.ini
+STM32*.xml
+*.cfg
+
+
+# cache và lib
+/.cache/
+/lib/

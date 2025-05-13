@@ -1,3 +1,0 @@
-../Core/Src/MultiHCSR04.c:12:6:SysTickEnable	1
-../Core/Src/MultiHCSR04.c:19:6:SysTickDisable	1
-../Core/Src/MultiHCSR04.c:26:10:measureDistance	5
