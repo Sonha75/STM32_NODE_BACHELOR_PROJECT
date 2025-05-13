@@ -1,0 +1,3 @@
+../Core/Src/MultiHCSR04.c:12:6:SysTickEnable	4	static,ignoring_inline_asm
+../Core/Src/MultiHCSR04.c:19:6:SysTickDisable	4	static,ignoring_inline_asm
+../Core/Src/MultiHCSR04.c:26:10:measureDistance	24	static,ignoring_inline_asm
