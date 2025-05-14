@@ -1,6 +1,6 @@
 
 
-#include "MultiHCSR04.h"
+#include <multi_hcsr04.h>
 
 
 uint16_t distance = 0, triggerTime = 0, sensor = 0;
